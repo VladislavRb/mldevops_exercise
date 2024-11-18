@@ -3,3 +3,4 @@ matplotlib==3.9.2
 torch==2.5.1
 torchvision==0.20.1
 black==24.10.0
+pre_commit==4.0.1
